@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721323580984",
+    "project_id": "coolmatics-zisoxw",
+    "storage_bucket": "coolmatics-zisoxw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721323580984:android:9b4bfef3bfdf58bb97d0cd",
+        "android_client_info": {
+          "package_name": "com.vectorm.coolmaticapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA5Ut_Fblr5gY6ei7e1kq0acQafgewWVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
