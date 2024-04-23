@@ -404,7 +404,7 @@ class _HomePageWidgetState extends State<HomePageWidget>
 
                                     context.pushNamed('weekly_time_sheet');
                                   },
-                                  text: 'Time Sheet',
+                                  text: 'Time-Sheet',
                                   icon: const Icon(
                                     Icons.timelapse_outlined,
                                     size: 15.0,
