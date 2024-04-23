@@ -1,13 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.vectorm.coolmaticapp"
     xmlns:tools="http://schemas.android.com/tools">
-
-    <queries>
-        <intent>
-            <action android:name="android.intent.action.SENDTO" />
-            <data android:scheme="mailto" />
-        </intent>
-    </queries>
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
@@ -60,12 +53,6 @@
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data android:scheme="coolmatics" android:host="coolmatics.com" />
             </intent-filter>
-
-                  <intent-filter>
-    <action android:name="android.intent.action.SENDTO" />
-    <data android:scheme="mailto" />
-    <category android:name="android.intent.category.DEFAULT" />
-</intent-filter>
 
         </activity>
 
